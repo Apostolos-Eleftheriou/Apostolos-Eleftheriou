@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Apostolis!
-- 🌱 I’m currently learning html,css and JavaScript as i aspire to one day fulfill my dream of becoming a developer!
+- 👋 Hi, I’m Apostolis!
+- 🌱 I’m currently learning HTML, CSS and JavaScript as i aspire to one day fulfill my dream of becoming a developer!
 - 📫 You can reach me at eleftheriou.apostolis@gmail.com
 
 <!---
