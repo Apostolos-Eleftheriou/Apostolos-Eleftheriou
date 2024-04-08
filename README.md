@@ -1,6 +1,6 @@
 - 👋 Hi there!
 My name is Apostolis.
-I'm an aspiring Web Developer that loves to make fast, stylish and responsive web sites and apps. I'm extremely dedicated, hard working and always willing to learn new technologies!
+I'm a Web Developer that loves to make fast, stylish and responsive web sites and apps. I'm extremely dedicated, hard working and always willing to learn new technologies!
 
 - 📫 You can reach me at eleftheriou.apostolis@gmail.com
 
